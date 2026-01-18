@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Subin Ninan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **NodeJS, ReactJS, NextJS, AWS**
+- 🌱 I’m currently learning **AI, AWS, **
 
 - 💬 Ask me about **C#, ASP.net**
 
-- 📫 How to reach me **subi@live.in**
+- 📫 How to reach me **https://subisoft.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
